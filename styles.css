@@ -37,6 +37,12 @@ ul.header-links a {
     padding: 30px 50px;
 }
 
+.dark-section h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
