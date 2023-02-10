@@ -52,6 +52,14 @@ ul.header-links a {
     background-color: #3882F6;
 }
 
+.image-placeholder {
+    display: block;
+    width:400px;
+    height:200px;
+    background-image: linear-gradient(#e5e7eb, #3882f6);
+    border-radius:5px;
+}
+
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
