@@ -43,6 +43,15 @@ ul.header-links a {
     color: #F9FAF8;
 }
 
+.dark-section p {
+    color:#E5E7EB;
+}
+
+.dark-section button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
