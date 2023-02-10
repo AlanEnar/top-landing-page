@@ -7,6 +7,11 @@ header {
     display: flex;
     justify-content:space-between;
     
+    background-color: #1F2937;
+}
+
+.logo {
+    color: #F9FAF8;
 }
 
 ul.header-links {
@@ -16,4 +21,10 @@ ul.header-links {
 .header-links {
     display: flex;
     gap: 20px;
+    color: #E5E7EB;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
