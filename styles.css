@@ -35,6 +35,8 @@ ul.header-links a {
 .dark-section {
     background-color: #1F2937;
     padding: 30px 50px;
+    display: flex;
+    flex-direction: row;
 }
 
 .dark-section h2 {
