@@ -47,6 +47,9 @@ ul.header-links a {
 
 .dark-section p {
     color:#E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .dark-section button {
