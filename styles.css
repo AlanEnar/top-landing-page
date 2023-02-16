@@ -52,6 +52,8 @@ ul.header-links a {
 .dark-section button {
     color: #F9FAF8;
     background-color: #3882F6;
+    border-radius: 5px;
+    border:none;
 }
 
 .image-placeholder {
