@@ -74,11 +74,18 @@ section {
 .card-row {
     display: flex;
     justify-content: center;
-    gap:30px;
+    gap: 50px;
 }
 
 .card {
+    display:flex;
+    flex-direction: column;
+    align-items:center;
     width: 130px;
+}
+
+.card p {
+    text-align: center;
 }
 
 .left-content {
