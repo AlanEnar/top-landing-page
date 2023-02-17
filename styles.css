@@ -7,7 +7,7 @@ header {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding: 10px 50px;
+    padding: 10px 150px;
     
     background-color: #1F2937;
 }
@@ -32,9 +32,12 @@ ul.header-links a {
     gap: 20px;
 }
 
+section {
+    padding: 30px 150px;
+}
+
 .dark-section {
     background-color: #1F2937;
-    padding: 30px 50px;
     display: flex;
     flex-direction: row;
 }
