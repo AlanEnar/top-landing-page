@@ -68,11 +68,13 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap:30px;
 }
 
 .card-row {
     display: flex;
     justify-content: center;
+    gap:30px;
 }
 
 .left-content {
