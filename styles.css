@@ -81,7 +81,7 @@ section {
     display:flex;
     flex-direction: column;
     align-items:center;
-    width: 130px;
+    width: 150px;
 }
 
 .card p {
@@ -103,11 +103,11 @@ section {
 }
 
 .small-img {
-    width: 130px;
-    height: 130px;
+    width: 140px;
+    height: 140px;
     background-color: #E5E7EB;
     border:5px solid #3882f6;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 footer {
