@@ -36,23 +36,23 @@ section {
     padding: 30px 150px;
 }
 
-.dark-section {
+#section-1 {
     background-color: #1F2937;
     display: flex;
     flex-direction: row;
 }
 
-.dark-section h2 {
+#section-1 h2 {
     font-size: 48px;
     font-weight: 700;
     color: #F9FAF8;
 }
 
-.dark-section p {
+#section-1 p {
     color:#E5E7EB;
 }
 
-.dark-section button {
+#section-1 button {
     color: #F9FAF8;
     background-color: #3882F6;
 
