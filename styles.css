@@ -64,6 +64,17 @@ section {
     width:150px;
 }
 
+#section-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-row {
+    display: flex;
+    justify-content: center;
+}
+
 .left-content {
     display: flex;
     flex-direction: column;
