@@ -77,6 +77,10 @@ section {
     gap:30px;
 }
 
+.card {
+    width: 130px;
+}
+
 .left-content {
     display: flex;
     flex-direction: column;
