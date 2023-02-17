@@ -89,6 +89,14 @@ section {
     border-radius:5px;
 }
 
+.small-img {
+    width: 130px;
+    height: 130px;
+    background-color: #E5E7EB;
+    border:5px solid #3882f6;
+    border-radius: 5px;
+}
+
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
