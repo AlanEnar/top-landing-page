@@ -82,6 +82,14 @@ section {
     gap: 10px;
 }
 
+.quote-text {
+    font-style: italic;
+}
+
+.quote-attribution {
+    font-weight: bold;
+}
+
 .card-row {
     display: flex;
     justify-content: center;
