@@ -155,4 +155,8 @@ section {
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
+
+    padding: 10px 150px;
+    display: flex;
+    justify-content: center;
 }
