@@ -85,6 +85,19 @@ section {
     justify-content: space-between;
 }
 
+.action-box button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+
+    border-radius: 5px;
+    border:2px #f9faf8 solid;
+    box-sizing: border-box;
+
+    padding:5px 20px;
+    font-size:16px;
+    width:150px; 
+}
+
 .block-quote {
     display: flex;
     flex-direction: column;
